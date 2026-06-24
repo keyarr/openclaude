@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.20.1](https://github.com/Gitlawb/openclaude/compare/v0.20.0...v0.20.1) (2026-06-24)
+
+
+### Bug Fixes
+
+* **bridge:** match loopback hostname exactly in HTTPS credential guard ([#1760](https://github.com/Gitlawb/openclaude/issues/1760)) ([66ddbec](https://github.com/Gitlawb/openclaude/commit/66ddbece19ed2b9735c7e6501c3cfbba4181ca75))
+
 ## [0.20.0](https://github.com/Gitlawb/openclaude/compare/v0.19.0...v0.20.0) (2026-06-24)
 
 
