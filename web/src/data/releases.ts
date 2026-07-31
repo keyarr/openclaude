@@ -18,6 +18,18 @@ export function releaseUrl(version: string): string {
 
 export const releases: Release[] = [
   {
+    version: '0.27.0',
+    date: '2026-07-30',
+    theme: 'subscription auth on loopback, multi-repo subagents, brand refresh',
+    highlights: [
+      'opt-in loopback proxy hosts keep subscription (OAuth) auth alive',
+      'subagents from multi-repo parent sessions',
+      'parallel same-turn tool failures no longer trip the failure guard',
+      'single-row centered startup logo with ANSI Shadow wordmark',
+      'new gateway catalog models: Ling 3.0 Flash free and Macaron V1 Tall',
+    ],
+  },
+  {
     version: '0.26.0',
     date: '2026-07-27',
     theme: 'polish — steadier long turns, sharper streaming feedback',
